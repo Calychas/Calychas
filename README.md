@@ -1,7 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Calychas/Calychas/main/gifs/hand.gif" width="30px">, I am Kacper Leśniara </h1>
 <h3 align="center">Data Science Student </h3>
-
-### Hi there 👋, I'm Kacper Leśniara
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
