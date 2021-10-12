@@ -5,4 +5,4 @@
 - 🏗️ Some of the projects I've worked on are available here:
   -  [Politicians Exploratory Analysis Platform](https://politicians.embedd.ml/)
   -  [Football transfers](https://football-transfers.web.app/)
-  -  [Relocation recommendation system](http://relocation.embedd.ml/)
+  -  [Relocation recommendation system](https://github.com/Calychas/relocation-recommendation)
