@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Calychas/Calychas/main/gifs/hand.gif" width="30px">, I'm Kacper Leśniara </h1>
-<h3 align="center">Geospatial AI Researcher @ <a href="https://kraina.ai">Kraina AI</a> <br> ML & MLOps Engineer @ <a href="[https://getindata.com/](https://github.com/getindata)">GetInData | Part of Xebia</a></h3>
+<h3 align="center">Geospatial AI Researcher @ <a href="https://kraina.ai">Kraina AI</a> <br> ML & MLOps Engineer @ <a href="https://github.com/getindata">GetInData | Part of Xebia</a></h3>
 
 I'm a Wrocław based ML Engineer with a deep affection for this city and a passion for the geospatial domain. I enjoy cycling, owning (and fixing regularly) both a vintage road bike and an MTB one. One could also say that I'm a smart-home enthusiast as I'm overburdening my Raspberry PI with numerous applications that need to be tweaked quite constantly. Recently I'm also delving into the 3D printing world and making my baby steps there. I'm interested in applying AI and Machine Learning algorithms to solve social, but most importantly practical issues.
 
